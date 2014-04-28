@@ -5,3 +5,15 @@ html, body{
 body{
 	background-color: #eeeeee;
 }
+
+#container {
+  	background:url(mala_temporary.png) no-repeat center center;
+	height:370px;
+	width:632px;
+	left: 50%;
+	top: 50%;
+	text-align: center; 
+	margin-left: -316px; /*half width*/
+	margin-top: -185px; /*half height*/
+	position:absolute;
+}
