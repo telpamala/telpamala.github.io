@@ -17,3 +17,28 @@ body{
 	margin-top: -185px; /*half height*/
 	position:absolute;
 }
+
+.link{
+	background-color: transparent; 
+	cursor: pointer;
+	position:relative;
+	width:235px; height:35px;
+	left:395px;
+
+}
+
+#address{
+	 top:237px;
+}
+#mail{
+	top: 238px;
+
+}
+#fbook{
+	top: 239px;
+
+}
+#twitter{
+	top: 240px;
+
+}
